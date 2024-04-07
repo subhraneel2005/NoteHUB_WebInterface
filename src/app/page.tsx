@@ -17,7 +17,6 @@ export default function Home(){
       <p className="text-neutral-500 max-w-lg mx-auto my-2 mt-5 text-sm text-center relative z-10">
       Say goodbye to the fear of losing and managing physical notes. NoteHUB empowers students to effortlessly digitize and organize their notes, ensuring easy access and peace of mind. With NoteHUB, focus on learning, not on managing papers.Whether you're a student, professional or just someone who likes to jot down notes, we've got you covered.
       </p>
-      
     </div>
     <BackgroundBeams />
   </div>
